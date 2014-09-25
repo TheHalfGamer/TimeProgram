@@ -1,0 +1,14 @@
+class Time {
+  public static void main(string [] args) {
+    System.out.println("How to set a time for program");
+  }
+}
+System.currentTimeMillis() {
+  if(System.currentTimeMillis() >= 5:00 PM){
+    permission.League of Legends = true
+    return("League of Legends is now online");
+  } else {
+      permission.League of Legends = false;
+  }
+};
+    

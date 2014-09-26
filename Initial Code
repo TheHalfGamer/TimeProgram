@@ -11,4 +11,10 @@ System.currentTimeMillis() {
       permission.League of Legends = false;
   }
 };
+   if(System.currentTimeMillis() >= 7:00 PM) {
+    permission.League of Legends = false
+    return("League if Legends is now unavailable!");
+  } else {
+    permission.League of Legends = true;
+    }
     
